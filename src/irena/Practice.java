@@ -7,5 +7,7 @@ public class Practice {
         System.out.println("Hello team 31");
 
         System.out.println("Team 31 rocks");
+
+        // all requirements done
     }
 }
